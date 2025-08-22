@@ -6,3 +6,5 @@ It is composed of eight point cloud sequences, along with the ground-truth movem
 ![simulated environments](https://github.com/DeskFanzin/WareSet/blob/main/pics/simulated_environments.png?raw=true)
 
 ![pointcloud annotated sequences](https://github.com/DeskFanzin/WareSet/blob/main/pics/sequencias_melhor.png?raw=true)
+
+Link to dataset download will be available soon....
